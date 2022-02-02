@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ThermostatAPP</string>
+    <string name="TemperatureURL">https://mezurix.npkn.net/thermostat-temperature/</string>
+    <string name="SecretHeaderName">napkin-account-api-key</string>
+    <string name="Secret">8a48af4213c74033a96c854e1b74394a</string>
+</resources>
